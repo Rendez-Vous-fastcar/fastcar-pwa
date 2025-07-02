@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "first commit: PWA Rendez-vous Fast Car"
+git branch -M main
+git remote add origin https://github.com/Rendez-Vous-fastcar/fastcar-pwa.git
+git push -u origin main
